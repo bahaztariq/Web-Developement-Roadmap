@@ -1,5 +1,53 @@
 # 🏗️ HTML - HyperText Markup Language
 
+## Summary
+
+This document covers HTML (HyperText Markup Language), the foundational markup language for creating web pages. Topics include document structure, semantic elements, text formatting, links, images and media, lists, tables, forms with various input types, and HTML5 best practices. It provides practical examples with UML-style diagrams showing the relationships between HTML elements.
+
+## Sommaire
+
+- [📊 HTML Document Structure - UML Diagram](#📊-html-document-structure---uml-diagram)
+- [1. Introduction to HTML](#1-introduction-to-html)
+  - [Definition](#definition)
+  - [The Role of HTML in Web Development](#the-role-of-html-in-web-development)
+  - [Basic Document Structure](#basic-document-structure)
+- [2. Text Elements](#2-text-elements)
+  - [Definition](#definition)
+  - [Element Hierarchy Diagram](#element-hierarchy-diagram)
+  - [Headings](#headings)
+  - [Paragraphs and Text Formatting](#paragraphs-and-text-formatting)
+  - [Block vs Inline Elements](#block-vs-inline-elements)
+- [3. Links & Navigation](#3-links-&-navigation)
+  - [Definition](#definition)
+  - [Link Types Diagram](#link-types-diagram)
+- [4. Images & Media](#4-images-&-media)
+  - [Definition](#definition)
+  - [Media Types Diagram](#media-types-diagram)
+- [5. Lists](#5-lists)
+  - [Definition](#definition)
+  - [List Types Diagram](#list-types-diagram)
+- [6. Tables](#6-tables)
+  - [Definition](#definition)
+  - [Table Structure Diagram](#table-structure-diagram)
+- [7. Forms](#7-forms)
+  - [Definition](#definition)
+  - [Form Architecture Diagram](#form-architecture-diagram)
+  - [Input Types Diagram](#input-types-diagram)
+- [8. Semantic HTML5 Elements](#8-semantic-html5-elements)
+  - [Definition](#definition)
+  - [Semantic Page Structure Diagram](#semantic-page-structure-diagram)
+  - [Semantic Elements Reference](#semantic-elements-reference)
+- [9. HTML Best Practices](#9-html-best-practices)
+  - [Definition](#definition)
+  - [DO's ✅](#do's-✅)
+  - [DON'Ts ❌](#don'ts-❌)
+  - [Accessibility Tips ♿](#accessibility-tips-♿)
+- [10. Complete HTML Template](#10-complete-html-template)
+  - [Definition](#definition)
+- [🔑 Key Takeaways](#🔑-key-takeaways)
+
+
+
 > The foundation of every web page. HTML provides the structure and semantic meaning to web content.
 
 ---

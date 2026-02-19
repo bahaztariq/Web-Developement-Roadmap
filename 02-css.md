@@ -1,5 +1,63 @@
 # 🎨 CSS - Cascading Style Sheets
 
+## Summary
+
+This document covers CSS (Cascading Style Sheets) for styling web pages. Topics include selectors and specificity, the box model, colors and backgrounds, typography, Flexbox and Grid layouts, responsive design with media queries, transitions and animations, CSS variables (custom properties), and best practices for maintainable CSS architecture.
+
+## Sommaire
+
+- [📊 CSS Architecture - UML Diagram](#📊-css-architecture---uml-diagram)
+- [1. CSS Basics](#1-css-basics)
+  - [Definition](#definition)
+  - [How CSS Works](#how-css-works)
+  - [Ways to Add CSS](#ways-to-add-css)
+  - [CSS Syntax](#css-syntax)
+- [2. CSS Selectors](#2-css-selectors)
+  - [Definition](#definition)
+  - [Selector Types Diagram](#selector-types-diagram)
+  - [Basic Selectors](#basic-selectors)
+  - [Combinator Selectors](#combinator-selectors)
+  - [Pseudo-classes](#pseudo-classes)
+  - [Pseudo-elements](#pseudo-elements)
+- [3. Specificity & Cascade](#3-specificity-&-cascade)
+  - [Definition](#definition)
+  - [Specificity Calculation](#specificity-calculation)
+  - [The !important Rule](#the-important-rule)
+  - [Inheritance](#inheritance)
+- [4. The Box Model](#4-the-box-model)
+  - [Definition](#definition)
+  - [Box Model Diagram](#box-model-diagram)
+- [5. Colors & Backgrounds](#5-colors-&-backgrounds)
+  - [Definition](#definition)
+  - [Color System Diagram](#color-system-diagram)
+- [6. Typography](#6-typography)
+  - [Definition](#definition)
+  - [Typography System Diagram](#typography-system-diagram)
+- [7. Flexbox Layout](#7-flexbox-layout)
+  - [Definition](#definition)
+  - [Flexbox Architecture](#flexbox-architecture)
+- [8. CSS Grid Layout](#8-css-grid-layout)
+  - [Definition](#definition)
+  - [Grid Architecture](#grid-architecture)
+- [9. Responsive Design](#9-responsive-design)
+  - [Definition](#definition)
+  - [Responsive Design Flow](#responsive-design-flow)
+  - [CSS Units Reference](#css-units-reference)
+- [10. Transitions & Animations](#10-transitions-&-animations)
+  - [Definition](#definition)
+  - [Animation Types Comparison](#animation-types-comparison)
+- [11. CSS Variables (Custom Properties)](#11-css-variables-custom-properties)
+  - [Definition](#definition)
+  - [Variable Scope Diagram](#variable-scope-diagram)
+- [12. CSS Best Practices](#12-css-best-practices)
+  - [Definition](#definition)
+  - [DO's ✅](#do's-✅)
+  - [DON'Ts ❌](#don'ts-❌)
+  - [CSS Architecture](#css-architecture)
+  - [Performance Tips](#performance-tips)
+
+
+
 > CSS controls the presentation, layout, and styling of HTML documents. It separates content from design.
 
 ---

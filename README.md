@@ -1,4 +1,13 @@
+
 # 📚 Full Web Development Documentation Plan
+## Sommaire
+
+- [📁 Documentation Files](#📁-documentation-files)
+- [🗓️ Suggested Learning Order](#🗓️-suggested-learning-order)
+- [📋 Documentation Format Guidelines](#📋-documentation-format-guidelines)
+- [📌 File Naming Convention](#📌-file-naming-convention)
+
+
 
 > A comprehensive documentation roadmap covering **11 technologies** — from the basics of how the web works to full-stack frameworks and system design.
 
@@ -19,8 +28,9 @@
 | 08 | 🐙 Git & GitHub | [08-git-github.md](08-git-github.md) | 70+ | 🟢→🟡 |
 | 09 | 🚀 Laravel | [09-laravel.md](09-laravel.md) | 135+ | 🟡→🔴 |
 | 10 | 📐 UML | [10-uml.md](10-uml.md) | 65+ | 🟡 Intermediate |
+| 11 | 💻 Bash Commands | [11-bash-commands.md](11-bash-commands.md) | 30+ | 🟢 Beginner |
 
-> **Total: 865+ topics** across all documentation files.
+> **Total: 895+ topics** across all documentation files.
 
 ---
 
@@ -39,8 +49,9 @@
 | **Phase 8** | 08 — Git & GitHub | Branching, merging, collaboration | 🟡 Version control | 2–3 days |
 | **Phase 9** | 09 — Laravel | MVC, Eloquent, auth, APIs | 🔴 PHP framework | 5–7 days |
 | **Phase 10** | 10 — UML | Use case, class diagrams, ERD, sequence | 🟡 System design | 2–3 days |
+| **Phase 11** | 11 — Bash | Terminal commands, scripting, automation | 🟢 Foundation | 1–2 days |
 
-> **Total estimated learning time: 31–42 days**
+> **Total estimated learning time: 32–44 days**
 
 ---
 

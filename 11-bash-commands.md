@@ -1,5 +1,36 @@
 # 💻 Bash Scripting & Terminal Commands
 
+## Summary
+
+This document covers Bash scripting and terminal commands for developers. Topics include navigation commands, file and directory operations, viewing and searching files, permissions and ownership management, system and process monitoring, redirection and pipes for command composition, networking basics, bash scripting fundamentals (variables, conditionals, loops), and shell customization.
+
+## Sommaire
+
+- [1. Introduction](#1-introduction)
+  - [What is Bash?](#what-is-bash)
+- [2. Navigation Commands](#2-navigation-commands)
+  - [Examples:](#examples)
+- [3. File & Directory Operations](#3-file-&-directory-operations)
+  - [Examples:](#examples)
+- [4. Viewing & Searching Files](#4-viewing-&-searching-files)
+  - [Examples:](#examples)
+- [5. Permissions & Ownership](#5-permissions-&-ownership)
+  - [Numeric Permissions (chmod):](#numeric-permissions-chmod)
+- [6. System & Process Management](#6-system-&-process-management)
+- [7. Redirection & Pipes](#7-redirection-&-pipes)
+  - [Pipes (`|`)](#pipes-`|`)
+  - [Redirection (`>`, `>>`)](#redirection-`>`-`>>`)
+- [8. Networking Basics](#8-networking-basics)
+- [9. Bash Scripting Basics](#9-bash-scripting-basics)
+  - [The Shebang](#the-shebang)
+  - [Variables](#variables)
+  - [Conditional Logic (If Statements)](#conditional-logic-if-statements)
+  - [Loops (For Loops)](#loops-for-loops)
+- [10. Useful Keyboard Shortcuts](#10-useful-keyboard-shortcuts)
+- [11. Customizing Your Shell (.bashrc / .zshrc)](#11-customizing-your-shell-bashrc-/-zshrc)
+
+
+
 > The terminal (command line) is a developer's most powerful tool. It allows you to interact with your computer's operating system directly, automate tasks, and manage files faster than with a GUI.
 
 ---

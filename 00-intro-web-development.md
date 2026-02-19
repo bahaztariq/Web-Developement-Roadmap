@@ -1,5 +1,49 @@
 # Introduction to Web Development
 
+## Summary
+
+This document provides a comprehensive foundation for web development, covering essential concepts including how the web works (HTTP, DNS, protocols), the differences between front-end, back-end, and full-stack development, Core Web Vitals for performance optimization, web accessibility (a11y) standards, browser DevTools usage, version control basics, and the development workflow. It serves as a prerequisite for all other web development topics.
+
+## Sommaire
+
+- [1. How the Web Works](#1-how-the-web-works)
+  - [The Request-Response Cycle](#the-request-response-cycle)
+  - [Key Protocols](#key-protocols)
+  - [HTTP Status Codes](#http-status-codes)
+- [2. Front-End vs. Back-End vs. Full-Stack](#2-front-end-vs-back-end-vs-full-stack)
+- [3. Core Web Vitals](#3-core-web-vitals)
+  - [The Three Core Web Vitals](#the-three-core-web-vitals)
+  - [1. LCP — Largest Contentful Paint](#1-lcp-—-largest-contentful-paint)
+  - [2. INP — Interaction to Next Paint (replaced FID in 2024)](#2-inp-—-interaction-to-next-paint-replaced-fid-in-2024)
+  - [3. CLS — Cumulative Layout Shift](#3-cls-—-cumulative-layout-shift)
+  - [Additional Performance Metrics](#additional-performance-metrics)
+  - [Measuring Core Web Vitals](#measuring-core-web-vitals)
+  - [Performance Optimization Checklist](#performance-optimization-checklist)
+- [4. Web Accessibility (a11y)](#4-web-accessibility-a11y)
+  - [Why Accessibility Matters](#why-accessibility-matters)
+  - [WCAG Principles (POUR)](#wcag-principles-pour)
+  - [Semantic HTML](#semantic-html)
+  - [Heading Hierarchy](#heading-hierarchy)
+  - [Images and Alt Text](#images-and-alt-text)
+  - [Keyboard Navigation](#keyboard-navigation)
+  - [ARIA (Accessible Rich Internet Applications)](#aria-accessible-rich-internet-applications)
+  - [Color and Contrast](#color-and-contrast)
+  - [Forms and Error Handling](#forms-and-error-handling)
+  - [Skip Navigation](#skip-navigation)
+  - [Screen Reader-Only Text](#screen-reader-only-text)
+  - [Accessible Media](#accessible-media)
+  - [Testing Accessibility](#testing-accessibility)
+  - [Accessibility Checklist](#accessibility-checklist)
+- [5. Browser DevTools](#5-browser-devtools)
+  - [Key Panels](#key-panels)
+  - [Useful Shortcuts (Chrome DevTools)](#useful-shortcuts-chrome-devtools)
+- [6. Version Control Basics](#6-version-control-basics)
+- [7. Development Workflow](#7-development-workflow)
+  - [Typical Project Structure](#typical-project-structure)
+  - [Tools Every Web Developer Uses](#tools-every-web-developer-uses)
+
+
+
 **Definition:** Web development is the process of building and maintaining websites and web applications that run in a browser. It encompasses front-end (client-side), back-end (server-side), and full-stack development, combining HTML, CSS, JavaScript, and various frameworks and tools.
 
 ---
