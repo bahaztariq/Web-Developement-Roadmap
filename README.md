@@ -29,8 +29,10 @@
 | 09 | 🚀 Laravel | [09-laravel.md](09-laravel.md) | 135+ | 🟡→🔴 |
 | 10 | 📐 UML | [10-uml.md](10-uml.md) | 65+ | 🟡 Intermediate |
 | 11 | 💻 Bash Commands | [11-bash-commands.md](11-bash-commands.md) | 30+ | 🟢 Beginner |
+| 12 | ⚛️ React.js | [12-react.md](12-react.md) | 110+ | 🟡→🔴 |
+| 13 | 🖖 Vue.js | [13-vue.md](13-vue.md) | 100+ | 🟡→🔴 |
 
-> **Total: 895+ topics** across all documentation files.
+> **Total: 1105+ topics** across all documentation files.
 
 ---
 
@@ -50,8 +52,10 @@
 | **Phase 9** | 09 — Laravel | MVC, Eloquent, auth, APIs | 🔴 PHP framework | 5–7 days |
 | **Phase 10** | 10 — UML | Use case, class diagrams, ERD, sequence | 🟡 System design | 2–3 days |
 | **Phase 11** | 11 — Bash | Terminal commands, scripting, automation | 🟢 Foundation | 1–2 days |
+| **Phase 12** | 12 — React | Components, Hooks, Props, State, Routing | 🟠 JS Framework | 4–5 days |
+| **Phase 13** | 13 — Vue | Templates, Composition API, Pinia, Routing | 🟠 JS Framework | 4–5 days |
 
-> **Total estimated learning time: 32–44 days**
+> **Total estimated learning time: 40–54 days**
 
 ---
 
