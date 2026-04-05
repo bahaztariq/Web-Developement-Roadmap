@@ -31,8 +31,10 @@
 | 11 | 💻 Bash Commands | [11-bash-commands.md](11-bash-commands.md) | 30+ | 🟢 Beginner |
 | 12 | ⚛️ React.js | [12-react.md](12-react.md) | 110+ | 🟡→🔴 |
 | 13 | 🖖 Vue.js | [13-vue.md](13-vue.md) | 100+ | 🟡→🔴 |
+| 14 | 🍃 MongoDB | [14-mongodb.md](14-mongodb.md) | 50+ | 🟡 Intermediate |
+| 15 | 🧪 Redis | [15-redis.md](15-redis.md) | 40+ | 🟡 Intermediate |
 
-> **Total: 1105+ topics** across all documentation files.
+> **Total: 1200+ topics** across all documentation files.
 
 ---
 
@@ -54,8 +56,10 @@
 | **Phase 11** | 11 — Bash | Terminal commands, scripting, automation | 🟢 Foundation | 1–2 days |
 | **Phase 12** | 12 — React | Components, Hooks, Props, State, Routing | 🟠 JS Framework | 4–5 days |
 | **Phase 13** | 13 — Vue | Templates, Composition API, Pinia, Routing | 🟠 JS Framework | 4–5 days |
+| **Phase 14** | 14 — MongoDB | Documents, CRUD, Indexing, Aggregation | 🟡 NoSQL | 2–3 days |
+| **Phase 15** | 15 — Redis | Data Types, Caching, Persistence, Pub/Sub | 🟡 In-Memory | 1–2 days |
 
-> **Total estimated learning time: 40–54 days**
+> **Total estimated learning time: 43–59 days**
 
 ---
 
@@ -77,7 +81,7 @@ Each topic section follows this structure:
 ```
 XX-topic-name.md
 │
-├── XX  = Zero-padded number (00–13) for sort order
+├── XX  = Zero-padded number (00–15) for sort order
 └── topic-name = kebab-case technology name
 ```
 
